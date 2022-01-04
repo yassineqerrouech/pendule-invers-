@@ -1,1 +1,1 @@
-# pendule-invers-
+# pendule-inversé
